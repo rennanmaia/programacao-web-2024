@@ -14,3 +14,6 @@
 5. Integração Web com Banco de dados
 
 6. Projetos práticos
+
+## Guia de ferramentas:
+Acesse o guia de ferramentas [aqui](tools.md), e instale quando necessário.

@@ -1,5 +1,7 @@
 # Guia de eslito de mensagens para commits da Udacity (tradução livre para PT-BR)
 
+[Página principal](../README.md)
+
 ## Introdução
 
 Este guia de estilos age como um guia oficial para seguir nos projetos. Deve ser usado durante o desenvolvimento do projeto. Existem muitas opiniões sobre o estilo "ideal" no mundo do desenvolvimento de software. Entretanto, para reduzir a confusão sobre como os estudantes devem seguir, solicito que todos sigam guia de estilo de commits para seus projetos de github enquanto estiverem cursando a disciplina.

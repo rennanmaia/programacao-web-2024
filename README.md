@@ -3,6 +3,7 @@
 #### Professor: Rennan Maia
 
 ## Tópicos:
+
 1. Introdução e conceitos de aplicações Web
 
 2. Linguagens de marcação e estilo
@@ -16,4 +17,9 @@
 6. Projetos práticos
 
 ## Guia de ferramentas:
+
 Acesse o guia de ferramentas [aqui](tools.md), e instale quando necessário.
+
+## Guia de estilos para escrita de commits:
+
+Ao escrever commits, priorize utilizar o estilo escolhido. O guia escolhido é o mesmo utilizado pela Udacity e pode ser encontrado em [português](github/udacity-git-guideline-pt-br.md) e em [inglês](github/udacity-git-guideline.md).
